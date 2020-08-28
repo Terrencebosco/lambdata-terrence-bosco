@@ -1,7 +1,12 @@
 # lambdata-terrence-bosco
 
 ## Install 
-todo
+
+pip install _______
 
 ## Usage 
-todo
+```python
+from my_lambdasta.my_mod import enlarge
+
+print(enlarge(n))
+```
