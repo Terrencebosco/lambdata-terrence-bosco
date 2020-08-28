@@ -8,6 +8,10 @@ twine = "*"
 
 [packages]
 pandas = "*"
+pyopenssl = "*"
+ndg-httpsclient = "*"
+pyasn1 = "*"
+twine = "*"
 
 [requires]
 python_version = "3.8"
