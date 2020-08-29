@@ -27,3 +27,8 @@ if __name__ == "__main__":
 
     mapped_df = add_abbrev_stat_column(df)
     print(mapped_df.head())
+
+    df2 = pd.DataFrame({'Other_col':[1,2,2]})
+    df2.head()
+
+    breakpoint()
